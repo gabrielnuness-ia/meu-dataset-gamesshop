@@ -27,12 +27,17 @@ Entrega do Projeto avaliativo Meu Dataset-Gameshop
 ## Aprendizado, Execução Passo a Passo e Resultado
 
 - Esse foi um bom desafio. Não conheço muito de programação, então projetos que envolvem git/github/vscode são um pouco mais desafiadores. Por esse motivo, decidi não fazer FORK do repositório do professor, decidi fazer o meu e subir os arquivos em busca de me desafiar. Consegui. Aqui tive ajuda do Copilot, mas poderia assistir as aulas específicas novamente, caso fosse necessário.
+  
 - Para ter o melhor resultado inseri prompts em 3 diferentes IAs (Chatgpt, Claude, Grok3 todos em modo gratuito). O Copilot infelizmente não lê planilhas, então ficou de fora.
 iniciei com o prompt mais simples enviado em aula, no ChatGPT, busquei um agente especialista (https://chatgpt.com/g/g-xqNBnrR2o-data-analyst/), enquanto o grok3 foi usado no modo Think e o Claude apenas chat normal.
+
 - Tive então o primeiro grande desafio: As três IAs entregaram respostas diferentes.
+  
 - Para confirmar o resultado correto, voltei à planilha oficial, com as 3 camadas de venda e criei os cálculos (a segunda planilha na pasta processed_data. Afim de evitar erros, pintei as linhas para melhor visualização. Assim pude conferir quem tava certo e quem tava errado (mas também percebi que se fossem muito mais dados, eu poderia ter um grande problema) mas que, assim como esses, seria resolvido.
-- Após confirmação, o ChatGPT especilista conseguiu entregar o resultado correto logo na primeira tentativa, mesmo com um prompt simples, enquanto Grok3 e Claude erraram.
-- Fiz uma nova tentativa no Grok3 com um novo prompt, ele então corrigiu e me entregou corretamente o resultado ideal, ainda me deu algumas informações extras.
+  
+- Após confirmação, o ChatGPT especilista conseguiu entregar o resultado correto logo na primeira tentativa, mesmo com um prompt simples, enquanto Grok3 e Claude erraram, tendo claude errado nas próximas 3 tentativas, sendo descartado e o ChatGPT acabaram as tentativas de uso.
+  
+- Fiz uma nova tentativa no Grok3 com um novo prompt, ele então corrigiu e me entregou corretamente o resultado ideal, com algumas informações extras, conforme arquivo Prompts Grok3.
 -  
 
 
